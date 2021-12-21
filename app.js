@@ -64,4 +64,4 @@ const personalMovieDB = {
    
 }
 
-      writeYourGenres();
+      writeYourGenres(); 
